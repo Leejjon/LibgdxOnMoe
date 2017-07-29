@@ -20,6 +20,11 @@
 gradle-app.setting
 /build/
 /core/build/
+/core/out/
 /ios/build/
 /ios-moe/build/
+/ios-moe/out/
 /ios-moe/xcode/build
+
+LibgdxOnMoe.iml
+
