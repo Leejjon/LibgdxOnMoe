@@ -26,5 +26,5 @@ gradle-app.setting
 /ios-moe/out/
 /ios-moe/xcode/build
 
-LibgdxOnMoe.iml
+*.iml
 
